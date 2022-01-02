@@ -1,0 +1,68 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>CV</title>
+</head>
+
+<body>
+<center >
+<table border="1" width="740"><tr><td>
+<center>
+<img src="C:\Users\EMAN\Downloads//manc.jfif">
+</center></td>
+<td style="text-align:center;background-color:#ece0cf">Curriculam Vitae<br><h3>MAHNOOR KHURRAM</h3></td>
+</tr>
+<tr><td colspan="2" style="text-align:center;background-color:#ece0cf"><h3>PERSONAL DETAILS</h3></td>></tr>
+<tr><td colspan="2" style="background-color:#fff8dc;">Date Of Birth: &nbsp; &nbsp; &nbsp; &nbsp;  Septeber 16,2002</td>></tr>
+<tr><td colspan="2" style="background-color:#fff8dc;">Address: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Street-06,House#370,Marghazar Colony,Lahore</td>></tr>
+<tr><td colspan="2" style="background-color:#fff8dc;">Phone No: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +923320404550</td>></tr>
+<tr><td colspan="2" style="background-color:#fff8dc;">Email: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mahnoorkhurram45@gmail.com</td>></tr>
+
+
+<tr><td colspan="2" style="text-align:center;background-color:#ece0cf"><h3>EDUCATIONAL DETAILS</h3></td>></tr>
+<tr><td style=background-color:#dcdcdc;"><b>Matric With Biology</b></td><td style="background-color:black;color:white">2017-2018</td></tr>
+<tr>
+<td colspan="2" style="background-color:#fff8dc;">Comprehensive Girls High School</td></tr>
+<tr>
+<td colspan="2" style="padding-left:40px;background-color:#fff8dc">I have got 941 marks out of 1100 in matric. I'm a brilliant student at times.</td></tr>
+
+<tr><td style=background-color:#dcdcdc;"><b>Intermediate</b></td><td style="background-color:black;color:white">2019-2021</td></tr>
+<tr>
+<td colspan="2" style="background-color:#fff8dc;">Punjab Group Of Colleges</td></tr>
+<tr>
+<td colspan="2" style="padding-left:40px;background-color:#fff8dc">I have got 70% marks in Intermediate with ICS. I've do alot of practice to take part in BSCS.</td></tr>
+
+<tr><td style=background-color:#dcdcdc;"><b>Bs in Computer Science</b></td><td style="background-color:black;color:white">2021-2024</td></tr>
+<tr>
+<td colspan="2" style="background-color:#fff8dc;">Riphah International University</td></tr>
+<tr>
+<td colspan="2" style="padding-left:40px;background-color:#fff8dc">I have studied Progamming Fundamentals,Information & Introduction To Coputer Technology,English Comprehension and Applied physics.</td></tr>
+
+
+<tr><td colspan="2" style="text-align:center;background-color:#ece0cf"><h3>EXPERIENCE</h3></td>></tr>
+<tr><td style=background-color:#dcdcdc;"><b>Teaching</b></td><td style="background-color:black;color:white">2017-2020</td></tr>
+<tr>
+<td colspan="2" style="background-color:#fff8dc;">Teacher</td></tr>
+<tr>
+<td colspan="2" style="padding-left:40px;background-color:#fff8dc">I am a part time teacher of Science and Elective Subjects at Sublime School and also work as a Computer Lab Assistant.</td></tr>
+
+
+<tr><td colspan="2" style="text-align:center;background-color:#ece0cf"><h3>SKILLS</h3></td>></tr>
+<tr><td style=background-color:#dcdcdc;"><b>Languages</b></td><td style="background-color:#fff8dc;"><ul>
+<li>English</li>
+<li>Urdu</li>
+</ul></td></tr>
+
+<tr><td style=background-color:#dcdcdc;"><b>Softwares</b></td><td style="background-color:#fff8dc;"><ul>
+<li>MS Office</li>
+<li>C++</li>
+<li>C</li>
+</ul></td></tr>
+
+
+<tr><td colspan="2" style="text-align:center;background-color:#ece0cf"><h3>REFFERENCES</h3></td>></tr>
+<tr><td colspan="2" style="padding-left:90px;background-color:#dcdcdc">Refference will be furnished on demand</td></tr>
+
+</table></center>
+</body>
+</html>
